@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "bionft-dna-platform",
+=======
+<<<<<<< HEAD
+  "name": "bionft-dna-archiving",
+=======
+  "name": "bionft-dna-platform",
+>>>>>>> b50eba3 (update)
+>>>>>>> ebed76e (update)
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -13,7 +21,16 @@
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
     "framer-motion": "^10.16.16"
+=======
+<<<<<<< HEAD
+    "react-router-dom": "^6.20.1",
+    "@hashgraph/sdk": "^2.40.0"
+=======
+    "framer-motion": "^10.16.16"
+>>>>>>> b50eba3 (update)
+>>>>>>> ebed76e (update)
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
